@@ -1,3 +1,7 @@
+# may dir wuth data
+/data/Location_History/
+/data/raw/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
