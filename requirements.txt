@@ -1,0 +1,7 @@
+pandas>=1.4.2	
+numpy>=1.22.4
+geopandas>=0.10.2
+shapely>=1.8.2
+datetime>=4.4
+matplotlib>=3.5.2
+
